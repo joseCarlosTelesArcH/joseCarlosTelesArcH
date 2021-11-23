@@ -32,6 +32,3 @@
   <img src="https://profile-counter.glitch.me/joseCarlosTelesArcH/count.svg" />  
 </p>
 
-<!-- github workflow  -->
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/joseCarlosTelesArcH/joseCarlosTelesArcH/output/github-contribution-grid-snake.svg)
